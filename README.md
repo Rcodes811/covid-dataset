@@ -1,1 +1,2 @@
 # covid-dataset
+A data analysis of India's COVID-19 data reveals trends in daily cases, recoveries, and fatalities across states. Peaks occurred during mid-2020 and the second wave in 2021. Vaccination drives significantly reduced severe cases. Hotspots like Maharashtra and Kerala showed higher caseloads. Power BI dashboards provided real-time tracking, aiding policymakers in resource allocation and pandemic response strategies.
